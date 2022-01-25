@@ -5,4 +5,5 @@ These notebooks contain some of the assignments I did in the JAMK data analysis 
 * Time series
 * NumPy, Pandas
 * Visualization
+* DataFrames
 
