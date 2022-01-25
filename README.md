@@ -1,4 +1,4 @@
-# Jamk-data-analytics-works
+# Data Analytics Works
 
 These notebooks contain some of the assignments I did in the JAMK data analysis course.
 
